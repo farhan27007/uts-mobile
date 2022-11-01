@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Berita terkini</string>
+
+
+    <string name="this_activity">Blank Blog</string>
+    <string name="this_fragment">Menu</string>
+    <string name="search">Cari</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+
+    <string name="search_hint">Cari berita...</string>
+    <string name="heroes_name">Berita</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Buka Prodi Farmasi, Polinela Gandeng Dinas Kesehatan Provinsi Lampung</item>
+        <item>Program Studi Pengelolaan Agribisnis Gandeng “SayurBox” Kelola Teacing Factory Agrotechnopark</item>
+        <item>Kampanye Gizi di Polinela, PT. Charoen Pokhand Indonesia Feedmill Lampung Bagikan 12.000 Butir Telur</item>
+        <item>Workshop Penguatan Aksesibilitas Pasar Teaching Factory berbasis Digital Marketing</item>
+        <item>PINTAR Siap Salurkan Produk Ayam Potong Teaching Factory Polibronik, RPA Polinela Produksi Ayam ASUH</item>
+        <item>Buka Prodi Farmasi, Polinela Gandeng Dinas Kesehatan Provinsi Lampung</item>
+        <item>PLPI Universitas Gadjah Mada Gelar Seminar Nasional V, Polinela Kirim 6 Orang PLP</item>
+        <item>Siapkan Lulusan Berkompeten Dibidang Pemasaran Strategic Dan Pemasaran Digital,</item>
+    </string-array>
+    <string-array name="data_description">
+<item>POLINELA, Rabu (19/10/2022). Direktur Politeknik Negeri Lampung, (Polinela) Dr. Ir. Sarono, M.Si melaksanakan penandatanganan Memorandum of Understanding (MoU) dengan Dinas Kesehatan Provinsi Lampung.</item>
+        <item>POLINELA, Senin (10/10/2022). Program Studi Pengelolaan Agribisnis Politeknik Negeri Lampung  (Polinela) menyelenggarakan Kuliah Umum dan Penandatangan MoU dengan PT Kreasi Nostra Mandiri (SayurBox), </item>
+        <item>POLINELA, Jum’at (07/10/2022). Politeknik Negeri Lampung (Polinela) bekerjasama dengan PT.Charoen Pokphand Indonesia Feedmill Lampung adakan kampanye gizi dan kerja bhakti di Gedung Serba Guna (GSG) Polinela. Kerja bhakti diikuti oleh civitas akademika Polinela.</item>
+        <item>POLINELA, Kamis (06/10/2022). Dalam rangka penguatan akses pasar produk/jasa Teaching Factory (TEFA) Politeknik Negeri Lampung, UPT P3UT selenggarakan workshop bagi pengelola TEFA dilingkungan Politeknik Negeri Lampung yang dilaksanakan secara luring di Ruang Pertemuan B, Kampus Politeknik Negeri Lampung.</item>
+        <item>POLINELA, Rabu (19/10/2022). Direktur Politeknik Negeri Lampung, (Polinela) Dr. Ir. Sarono, M.Si melaksanakan penandatanganan Memorandum of Understanding (MoU) dengan Dinas Kesehatan Provinsi Lampung. </item>
+        <item>POLINELA, Rabu (19/10/2022). Direktur Politeknik Negeri Lampung, (Polinela) Dr. Ir. Sarono, M.Si melaksanakan penandatanganan Memorandum of Understanding (MoU) dengan Dinas Kesehatan Provinsi Lampung</item>
+        <item>POLINELA, Kamis (13/10/2022). Sebanyak 6 orang Pranata Laboratorium Pendidikan (PLP) Persatuan Pranata Laboraturium Politeknik Negeri Lampung (PPLP)</item>
+        <item>POLINELA, Selasa (11/10/2022). Program Studi (Prodi) D4 Pengelolaan Agribisnis Jurusan Ekonomi dan Bisnis Politeknik Negeri Lampung (Polinela) mengadakan Pelatihan dan Uji Kompetensi Skema Pemasaran Strategic dan Pemasaran Digital yang dilaksanakan di Yogyakarta dari tanggal 5-8 Oktober 2022. </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/g1</item>
+        <item>@drawable/g2</item>
+        <item>@drawable/g3</item>
+        <item>@drawable/g4</item>
+        <item>@drawable/g5</item>
+        <item>@drawable/g6</item>
+        <item>@drawable/g7</item>
+        <item>@drawable/g8</item>
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shoppingbag">Halaman Blog</string>
+    <string name="hello_ini_shopping_bag">Halaman Blog</string>
+
+
+</resources>
